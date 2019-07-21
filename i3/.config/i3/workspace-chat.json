@@ -1,0 +1,43 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1016,
+       "width": 807,
+       "x": 436,
+       "y": 1460
+    },
+    "name": "Slack - Dream Team Chat",
+    "percent": 0.5,
+    "swallows": [
+       {
+       "class": "^Slack$",
+       "instance": "^slack$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "pixel",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1016,
+       "width": 1250,
+       "x": 0,
+       "y": 0
+    },
+    "name": "Messenger - Mozilla Firefox",
+    "percent": 0.5,
+    "swallows": [
+       {
+       "class": "^Firefox$",
+       "title": "^Messenger\\ \\-\\ Mozilla\\ Firefox$"
+       }
+    ],
+    "type": "con"
+}
+
