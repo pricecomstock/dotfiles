@@ -3,10 +3,7 @@
 echo "restoring stowed configs!"
 
 stow bash
-stow zsh
-stow fish
-
 stow i3
-stow tmux
+stow fish
 stow polybar
 stow fontconfig
