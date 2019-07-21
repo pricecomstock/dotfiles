@@ -176,8 +176,6 @@ if [ -f '/home/price/Downloads/google-cloud-sdk/path.bash.inc' ]; then source '/
 # The next line enables shell command completion for gcloud.
 if [ -f '/home/price/Downloads/google-cloud-sdk/completion.bash.inc' ]; then source '/home/price/Downloads/google-cloud-sdk/completion.bash.inc'; fi
 
-dev() {	code ~/development/$1 ; }
-
 # Git aliases
 alias gis="git status"
 alias gcm="git commit -m"

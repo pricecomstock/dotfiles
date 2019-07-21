@@ -4,3 +4,6 @@ echo "restoring stowed configs!"
 
 stow bash
 stow i3
+stow fish
+stow polybar
+stow fontconfig
