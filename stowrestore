@@ -6,6 +6,7 @@ stow bash
 stow zsh
 stow fish
 
+stow xfce
 stow i3
 stow tmux
 stow polybar
