@@ -9,3 +9,11 @@ e.g.
 will sync to
 
 `~/.config/i3/config`
+
+# Required installs
+
+## From Package Manager
+`exa zsh`
+
+## Other
+* [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh#basic-installation)
