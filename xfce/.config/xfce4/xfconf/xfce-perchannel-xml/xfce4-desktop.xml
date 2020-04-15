@@ -13,22 +13,23 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/pc/Pictures/scotch.png"/>
+          <property name="last-image" type="string" value="/home/pc/Pictures/vector/snowymountain.jpg"/>
+          <property name="backdrop-cycle-enable" type="bool" value="false"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/illyria-default.jpg"/>
+          <property name="last-image" type="string" value="/home/pc/Pictures/vector/wk5sHTe.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/illyria-default.jpg"/>
+          <property name="last-image" type="string" value="/home/pc/Pictures/vector/dJxMocs.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/illyria-default.jpg"/>
+          <property name="last-image" type="string" value="/home/pc/Pictures/vector/j7R16Fw.png"/>
         </property>
       </property>
       <property name="monitorDP1" type="empty">
@@ -54,13 +55,15 @@
         </property>
       </property>
     </property>
+    <property name="single-workspace-mode" type="bool" value="false"/>
   </property>
   <property name="desktop-icons" type="empty">
     <property name="style" type="int" value="2"/>
     <property name="file-icons" type="empty">
       <property name="show-removable" type="bool" value="false"/>
     </property>
-    <property name="icon-size" type="uint" value="32"/>
+    <property name="icon-size" type="uint" value="64"/>
+    <property name="single-click" type="bool" value="true"/>
   </property>
   <property name="last" type="empty">
     <property name="window-width" type="int" value="619"/>
