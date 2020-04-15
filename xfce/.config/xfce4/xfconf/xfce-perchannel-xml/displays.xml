@@ -30,4 +30,5 @@
       </property>
     </property>
   </property>
+  <property name="IdentityPopups" type="bool" value="false"/>
 </channel>

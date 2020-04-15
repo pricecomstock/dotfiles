@@ -36,22 +36,22 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-stripes.png"/>
+          <property name="last-image" type="string" value="/home/pc/Pictures/vector/snowymountain.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-stripes.png"/>
+          <property name="last-image" type="string" value="/home/pc/Pictures/vector/wk5sHTe.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-stripes.png"/>
+          <property name="last-image" type="string" value="/home/pc/Pictures/vector/dJxMocs.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-stripes.png"/>
+          <property name="last-image" type="string" value="/home/pc/Pictures/vector/j7R16Fw.png"/>
         </property>
       </property>
     </property>
