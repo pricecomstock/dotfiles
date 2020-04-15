@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,firefox.desktop,visual-studio-code.desktop
-recent=google-chrome.desktop,panel-preferences.desktop,xfce-backdrop-settings.desktop,xfce-ui-settings.desktop,exo-terminal-emulator.desktop,visual-studio-code.desktop,firefox.desktop,xfce-settings-manager.desktop,slack.desktop,xfce-display-settings.desktop
+recent=slack.desktop,Zoom.desktop,google-chrome.desktop,panel-preferences.desktop,xfce-backdrop-settings.desktop,xfce-ui-settings.desktop,exo-terminal-emulator.desktop,visual-studio-code.desktop,firefox.desktop,xfce-settings-manager.desktop
 button-icon=/usr/share/icons/manjaro/maia/64x64.png
 button-single-row=false
 show-button-title=false

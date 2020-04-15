@@ -3,6 +3,7 @@
 <channel name="xfce4-panel" version="1.0">
   <property name="panels" type="array">
     <value type="int" value="0"/>
+    <value type="int" value="1"/>
     <property name="panel-0" type="empty">
       <property name="position" type="string" value="p=8;x=720;y=884"/>
       <property name="length" type="uint" value="100"/>
@@ -22,6 +23,7 @@
         <value type="int" value="9"/>
         <value type="int" value="12"/>
         <value type="int" value="2"/>
+        <value type="int" value="29"/>
       </property>
       <property name="role" type="string" value="xfce4-panel-12965750720"/>
       <property name="length-adjust" type="bool" value="true"/>
@@ -34,6 +36,28 @@
       <property name="nrows" type="uint" value="1"/>
       <property name="enter-opacity" type="uint" value="85"/>
       <property name="leave-opacity" type="uint" value="75"/>
+    </property>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=7;x=56;y=540"/>
+      <property name="size" type="uint" value="108"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="24"/>
+      </property>
+      <property name="autohide-behavior" type="uint" value="2"/>
+      <property name="nrows" type="uint" value="2"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="background-image" type="string" value="/home/pc/Pictures/vector/code.png"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.678431"/>
+        <value type="double" value="0.498039"/>
+        <value type="double" value="0.658824"/>
+        <value type="double" value="1.000000"/>
+      </property>
+      <property name="mode" type="uint" value="1"/>
+      <property name="length" type="uint" value="10"/>
+      <property name="position-locked" type="bool" value="true"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -68,8 +92,8 @@
         <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="xnoise"/>
       </property>
-      <property name="show-frame" type="bool" value="false"/>
-      <property name="size-max" type="uint" value="24"/>
+      <property name="show-frame" type="bool" value="true"/>
+      <property name="size-max" type="uint" value="30"/>
       <property name="names-ordered" type="array">
         <value type="string" value="task manager"/>
         <value type="string" value="javaembeddedframe"/>
@@ -126,6 +150,10 @@
         <value type="string" value="15869532524.desktop"/>
       </property>
     </property>
+    <property name="plugin-24" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+    </property>
+    <property name="plugin-29" type="string" value="power-manager-plugin"/>
   </property>
   <property name="configver" type="int" value="2"/>
 </channel>
